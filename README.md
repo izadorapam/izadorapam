@@ -22,12 +22,22 @@
 
 ### 👩‍🚀 Sobre mim:
 
-- 🎓 Técnico em Administração formado e estudante de Análise e Desenvolvimento de Sistemas  
+- 🎓 Técnico em Administração formada e estudante de Análise e Desenvolvimento de Sistemas  
 - 💻 Apaixonada por desenvolvimento backend & frontend  
 - 🚀 Estudando e aprimorando habilidades em HTML, CSS, JavaScript e Node.js  
 - 🤖 Explorando lógica de programação, Python e C  
 - 📈 Sempre buscando novos desafios e projetos práticos para evoluir  
 - 🌐 Focada em criar soluções tecnológicas modernas e eficientes  
+
+---
+
+### 📚 Cursos Complementares:
+
+- Linguagem de Programação Python
+- Introdução à Administração  
+- Meninas Programadoras I — USP  
+- Meninas Programadoras II — USP   
+- Capacitação Profissional em Sistemas Embarcados 
 
 ---
 
