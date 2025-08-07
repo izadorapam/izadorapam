@@ -1,8 +1,8 @@
 <h1 align="center">👩‍💻 Olá, eu sou a Izadora Pamella!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=izadora-pamella&style=flat-square&color=blue" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/izadora-pamella?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=izadorapam&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/izadorapam?label=Follow&style=social" />
 </p>
 
 ---
@@ -47,8 +47,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Resumo do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izadora-pamella&theme=github_dark)
-![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izadora-pamella&theme=github_dark)
-![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izadora-pamella&theme=github_dark)
-![Linguagens por commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izadora-pamella&theme=github_dark)
-![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=izadora-pamella&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
+![](https://raw.githubusercontent.com/izadorapam/izadorapam/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/izadorapam/izadorapam/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/izadorapam/izadorapam/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/izadorapam/izadorapam/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/izadorapam/izadorapam/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+
