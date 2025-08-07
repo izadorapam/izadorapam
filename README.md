@@ -42,3 +42,13 @@
 ---
 
 <p align="center"><strong>Vamos construir o futuro da tecnologia juntos! ⚡</strong></p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Resumo do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izadora-pamella&theme=github_dark)
+![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izadora-pamella&theme=github_dark)
+![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izadora-pamella&theme=github_dark)
+![Linguagens por commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izadora-pamella&theme=github_dark)
+![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=izadora-pamella&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
