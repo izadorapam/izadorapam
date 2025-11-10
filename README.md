@@ -26,25 +26,16 @@
 ---
 
 ### 🧩 Ferramentas  
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 
 ---
 
 ### 💡 Outros Conhecimentos  
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
 
----
-
-### 🎓 Certificados  
-🪪 **Principais Certificados:**  
-- Cointer PDVGT  
-- Inteligência Artificial  
-- Capacitação Profissional em Sistemas Embarcados  
-- Meninas Programadoras 1 e 2  
 
 ---
 
