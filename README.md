@@ -12,29 +12,30 @@
 
 <div align="center">
 
-### 🐍 Principais habilidades  
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+### 🌟 Principais Linguagens  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 
 ---
 
-### ⚙️ Ferramentas  
+### 🧩 Ferramentas  
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 
 ---
 
-### 💡 Outros conhecimentos  
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+### 🔍 Outros Conhecimentos  
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 
 ---
 
-### 📚 Estudando no momento  
+### 🚀 Estudando no Momento  
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart)
 
