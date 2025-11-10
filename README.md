@@ -7,25 +7,37 @@
 </div>
 
 [![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=izadorapam&bg_color=0d1117&color=B794F4&line=C8A2F7&point=C8A2F7&area=true&hide_border=true)](https://github.com/izadorapam)
- 
-### Principais habilidades:
+
+---
+
+<div align="center">
+
+### 🐍 Principais habilidades  
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 
-### Ferramentas:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+---
+
+### ⚙️ Ferramentas  
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 
-### Outros conhecimentos:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3)&nbsp;
+---
+
+### 💡 Outros conhecimentos  
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 
-### Estudando no momento:
+---
+
+### 📚 Estudando no momento  
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart)
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B794F4&height=120&section=footer"/>
